@@ -8,7 +8,7 @@ import { PrivateRoute } from '../_components';
 import { HomePage } from '../HomePage';
 import { LoginPage } from '../LoginPage';
 import { RegisterPage } from '../RegisterPage';
-import Aux from '../hoc/Aux';
+import Aux from '../hoc/Auxiliar';
 import AlertBox from './alertBox';
 
 class App extends React.Component {
