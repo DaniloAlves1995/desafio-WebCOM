@@ -2,7 +2,7 @@ import React from 'react';
 import { Loader, Icon } from "semantic-ui-react";
 import './ReceiveCallBox.css';
 
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Auxiliar';
 
 //type: 0 - Aguardando resposta, 1 - Recebendo chamada, 2 - Vídeo estabelecido
 
