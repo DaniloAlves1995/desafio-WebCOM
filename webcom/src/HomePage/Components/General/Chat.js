@@ -5,7 +5,7 @@ import { format } from "date-fns";
 
 import UsersList from "./UsersList";
 import MessageBox from "./MessageBox";
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Auxiliar';
 import "../../HomePage.css";
 import Modal from '../Modal/Modal';
 import WindowVideo from './WindowVideo';
