@@ -1,0 +1,26 @@
+.RecevendCallBox {
+    display: flex;
+}
+
+.image{
+    margin: 5px 30px 5px 5px;
+}
+
+.buttonBox {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-right: 10px;
+}
+
+.ban.large.icon{
+    margin: 0px !important;
+}
