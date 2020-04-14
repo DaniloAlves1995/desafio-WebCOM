@@ -4,7 +4,7 @@ import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
 
 import Principal from './Components/General/Principal';
 import { userActions } from '../_actions';
-import Aux from '../hoc/Aux';
+import Aux from '../hoc/Auxiliar';
 import "./HomePage.css";
 
 
